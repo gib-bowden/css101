@@ -1,3 +1,19 @@
 body {
-	background-color: red;
+	background-color: powderblue;
+}
+
+section {
+	border: 5px dotted goldenrod;
+}
+
+.instructor {
+	background-color: gainsboro; 
+}
+
+#lauren {
+	background-color: palevioletred;
+}
+
+#lauren > h1 {
+	text-transform: uppercase;
 }
