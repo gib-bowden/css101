@@ -17,3 +17,12 @@ section {
 #lauren > h1 {
 	text-transform: uppercase;
 }
+
+#instructors-love .title ~ li {
+	list-style: none;
+}
+
+#instructors-love ul:first-of-type li:nth-child(3){
+	color: white;
+
+}
